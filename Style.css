@@ -1,0 +1,113 @@
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: fit-content;
+    z-index: 100;
+    background-color: white;
+    padding-bottom: 20px;
+}
+.container {
+    padding: 0;
+    display: flex;
+    justify-content: left;
+}
+.imag{
+    max-width: 100%;
+}
+.text {
+    font-size: 30px;
+    text-decoration: underline;
+    padding-top: 45px;
+    padding-left: 400px;
+}
+footer{
+    background-color:black;
+    height: 70px;
+    padding-right: 0;
+    padding-left: 0;
+    font-size: 25px;
+}
+.foote{
+    padding-right: 0;
+}
+.contain{
+    text-align: center;
+    padding-top: 20px;
+}
+.title{
+    padding-top: 170px;
+    font-size: 2rem;
+}
+.Courses{
+    padding: 20px;
+}
+.fcourses{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 1.5rem;
+}
+.ucourses{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 1.5rem;
+}
+.hcourses{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 1.5rem;
+}
+.dcourses{
+    display: flex;
+    justify-content: left;
+}
+.fbutton{
+    padding-top: 10px;
+    padding-left: 100px;
+    text-align: left;
+    cursor: pointer;
+}
+.ubutton{
+    padding-top: 10px;
+    padding-left: 500px;
+    text-align: center;
+    cursor: pointer;
+}
+.hbutton{
+    padding-top: 10px;
+    padding-left: 400px;
+    text-align: right;
+    cursor: pointer;
+}
+.abutton{
+    padding-top: 10px;
+    padding-left: 10px;
+    text-align: left;
+    cursor: pointer;
+}
+.contain1{
+    text-align: center;
+    padding-top: 20px;
+    display: grid;
+}
+.Courses{
+    text-align: center;
+    display: grid;
+    font-size: 1.3rem;
+}
+.coursef1{
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+.under{
+    font-size: 1.7rem;
+    padding: 20px;
+}
+.honours{
+    padding: 20px;
+    font-size: 1.7rem;
+}
+.foun{
+    padding: 20px;
+    font-size: 1.7rem;
+}
